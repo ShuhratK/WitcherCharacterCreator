@@ -1,0 +1,39 @@
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.exe
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.deps.json
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.runtimeconfig.json
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.runtimeconfig.dev.json
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.dll
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.pdb
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.csprojAssemblyReference.cache
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.AssemblyInfoInputs.cache
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.AssemblyInfo.cs
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.csproj.CoreCompileInputs.cache
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.dll
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.pdb
+E:\Visual Studio\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.genruntimeconfig.cache
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.exe
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.deps.json
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.runtimeconfig.json
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.runtimeconfig.dev.json
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.dll
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.pdb
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.csprojAssemblyReference.cache
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.AssemblyInfoInputs.cache
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.AssemblyInfo.cs
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.csproj.CoreCompileInputs.cache
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.dll
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.pdb
+E:\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.genruntimeconfig.cache
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.exe
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.deps.json
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.runtimeconfig.json
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.runtimeconfig.dev.json
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.dll
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\bin\Debug\netcoreapp3.1\WitcherCharacterCreator.pdb
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.csprojAssemblyReference.cache
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.AssemblyInfoInputs.cache
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.AssemblyInfo.cs
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.csproj.CoreCompileInputs.cache
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.dll
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.pdb
+D:\Users\gorko\Documents\C#Projects\WitcherCharacterCreator\WitcherCharacterCreator\obj\Debug\netcoreapp3.1\WitcherCharacterCreator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Er63b6WKuqnCq3Q0HjoYWaum3eQ48d/QO7QBFbp2oUtvDat9fY1jxSgm/2eJ3wLAIh/063MjCZvbjrtPOJpqw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\gorko\\Documents\\C#Projects\\WitcherCharacterCreator\\WitcherCharacterCreator\\WitcherCharacterCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorko\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gorko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gorko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gorko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
